@@ -1,16 +1,31 @@
-## Hi there 👋
+<!-- BANNER -->
+<div align="center">
+  <img src="Kryzine/4325.gif" width="600" alt="banner"/>
+</div>
 
-<!--
-**Kryzine/Kryzine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Backend Developer in Training**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Fall, don't wait for it I'm a Skin-walker, sleepin' in the forest"*
+
+I also have experience with **Nothing**.
+
+<img align="right" width="240px" src="Kryzine/5943.jpg" alt="image"/>
+
+```
+◈  Class     →  Backend / Full-Stack Apprentice
+◈  Origin    →  Brazil 
+◈  Covenant  →  Open Source
+◈  Build     →  INT / DEX
+◈  Status    →  Hunter. Refuses to go hollow.
+```
+
+<br clear="right"/>
+
+---
+<div align="center">
+
+*† Born to die, world's a fuck †*
+
+</div>
