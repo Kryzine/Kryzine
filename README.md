@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="Kryzine/4325.gif" width="600" alt="banner"/>
+  <img src="4325.gif" width="600" alt="banner"/>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 I also have experience with **Nothing**.
 
-<img align="right" width="240px" src="Kryzine/5943.jpg" alt="image"/>
+<img align="right" width="240px" src="5943.jpg" alt="image"/>
 
 ```
 ◈  Class     →  Backend / Full-Stack Apprentice
