@@ -11,7 +11,7 @@
 
 I also have experience with **Nothing**.
 
-<img align="right" width="240px" src="5435.jpg" alt="image"/>
+<img align="right" width="240px" src="5435.png" alt="image"/>
 
 ```
 ◈  Class     →  Backend / Full-Stack Apprentice
