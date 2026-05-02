@@ -29,7 +29,9 @@ I also have experience with **Nothing**.
 *† Born to die, world's a fuck †*
 
 </div>
+
 ---
+
 <!-- BANNER2 -->
 <div align="center">
   <img src="8432.gif" width="700" alt="image2"/>
